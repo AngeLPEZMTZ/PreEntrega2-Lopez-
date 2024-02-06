@@ -1,0 +1,22 @@
+.bg-dark{
+    padding: 10px;
+    font-size: large;
+}
+
+h1{
+    background-color: #353535;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+.hero{
+    background-color: #353535;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 0px;
+}
+
+ul{
+    list-style: none;
+}
